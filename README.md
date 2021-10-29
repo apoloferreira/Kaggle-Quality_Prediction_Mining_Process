@@ -30,4 +30,3 @@ Fazendo assim, a execução de ações corretivas com antecedência
 
 - Análise e Visualização de Dados
 - Otimização de Hyperparâmetros
-- 
